@@ -1,0 +1,632 @@
+# Copyright (C) 2026 Olena Datsenko
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WDOD Elementor Widgets 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/datsenkoolena/wdod-elementor-widgets/issues\n"
+"POT-Creation-Date: 2026-09-14 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: manual\n"
+"X-Domain: wdod-elementor-widgets\n"
+
+#. Plugin Name of the plugin
+msgid "WDOD Elementor Widgets"
+msgstr ""
+
+#. Description of the plugin
+msgid "Three production-ready Elementor widgets (Pricing Table, Team Member, Testimonial Slider) with shortcode fallbacks that keep working when Elementor is not installed."
+msgstr ""
+
+#: includes/class-admin-notices.php
+#. translators: 1: required PHP version, 2: current PHP version.
+msgid "WDOD Elementor Widgets requires PHP %1$s or newer. Your server runs PHP %2$s, so the Elementor widgets are disabled. The shortcodes keep working."
+msgstr ""
+
+#: includes/class-admin-notices.php
+#. translators: 1: required Elementor version, 2: installed Elementor version.
+msgid "WDOD Elementor Widgets requires Elementor %1$s or newer. You have %2$s installed, so the widgets are not registered until Elementor is updated."
+msgstr ""
+
+#: includes/class-admin-notices.php
+msgid "Update Elementor"
+msgstr ""
+
+#: includes/class-admin-notices.php
+msgid "WDOD Elementor Widgets works best with Elementor, which is installed but not active. Until it is activated only the shortcodes are available."
+msgstr ""
+
+#: includes/class-admin-notices.php
+msgid "Activate Elementor"
+msgstr ""
+
+#: includes/class-admin-notices.php
+msgid "WDOD Elementor Widgets works best with Elementor, which is not installed. Until it is installed only the shortcodes are available."
+msgstr ""
+
+#: includes/class-admin-notices.php
+msgid "Install Elementor"
+msgstr ""
+
+#: includes/class-admin-notices.php
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-assets.php
+#: templates/testimonial-slider.php
+msgid "Previous slide"
+msgstr ""
+
+#: includes/class-assets.php
+#: templates/testimonial-slider.php
+msgid "Next slide"
+msgstr ""
+
+#: includes/class-assets.php
+msgid "Go to slide"
+msgstr ""
+
+#: includes/class-widgets-manager.php
+msgid "WDOD Widgets"
+msgstr ""
+
+#: includes/class-shortcodes.php
+#. translators: %s: post type slug.
+msgid "WDOD testimonials: the post type \"%s\" does not exist."
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Header"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Professional"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Featured plan"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Yes"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "No"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Badge text"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Most popular"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Leave empty to hide"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Price"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Currency symbol"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Period"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "/ month"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Features"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Feature"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Feature description"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Included"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Custom icon"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Optional. Defaults to a check or cross mark."
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "10 projects"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Unlimited storage"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Priority support"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "White label"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Get started"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+msgid "Box"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+#: includes/widgets/class-testimonial-slider.php
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Featured accent"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+#: includes/widgets/class-testimonial-slider.php
+msgid "Border radius"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+#: includes/widgets/class-testimonial-slider.php
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Title & Price"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Title color"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Title typography"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Price color"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Price typography"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Period color"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Period typography"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Badge text color"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Badge background"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-pricing-table.php
+msgid "Text color"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Included icon color"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Excluded icon color"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Excluded opacity"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Row gap"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+#: includes/widgets/class-team-member.php
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/class-pricing-table.php
+msgid "Full width"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Team Member"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "— Select —"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Member"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Source"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Manual"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Post"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Reads the title, featured image and the \"role\", \"bio\", \"photo\" and \"socials\" fields."
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Jane Doe"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Role"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Lead Developer"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Photo"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Bio"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Short biography that introduces the team member and their responsibilities."
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Social links"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Label"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Links"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Shape"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Circle"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Rounded"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Spacing below"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+#: includes/widgets/class-testimonial-slider.php
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Name color"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Name typography"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+#: includes/widgets/class-testimonial-slider.php
+msgid "Role color"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+#: includes/widgets/class-testimonial-slider.php
+msgid "Role typography"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Bio color"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Bio typography"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Social icons"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Icon size"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Gap"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Icon color"
+msgstr ""
+
+#: includes/widgets/class-team-member.php
+msgid "Select a post to display the team member."
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Testimonial Slider"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+#: templates/testimonial-slider.php
+msgid "Testimonials"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Quote"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Working with this team was a pleasure: clear communication, on-time delivery and a site that finally loads fast."
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Author"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Alex Johnson"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Role / Company"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Marketing Director, Acme Inc."
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Avatar"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Rating (0–5)"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Items"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Maria Garcia"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Founder, Bloom Studio"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "The new store increased our conversion rate within the first month. Highly recommended."
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Sam Lee"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "CTO, Northwind"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Clean code, documented hooks and no surprises during the handover."
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Show rating"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Slider"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Slides per view"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Space between (px)"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Autoplay"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Autoplay speed (ms)"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Pause on hover"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Infinite loop"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Transition speed (ms)"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Arrows"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Dots"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Card"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Quote color"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Quote typography"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Author color"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Author typography"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Star color"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Empty star color"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Avatar size"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Navigation"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Arrow color"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Arrow background"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Arrow size"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Dot color"
+msgstr ""
+
+#: includes/widgets/class-testimonial-slider.php
+msgid "Active dot color"
+msgstr ""
+
+#: templates/testimonial-slider.php
+#. translators: %d: rating out of 5.
+msgid "Rated %d out of 5"
+msgstr ""

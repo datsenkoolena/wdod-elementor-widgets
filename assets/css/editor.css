@@ -1,0 +1,22 @@
+/**
+ * WDOD Elementor Widgets – editor panel tweaks.
+ */
+
+/* Category icon colour in the widgets panel. */
+#elementor-panel-category-wdod .elementor-panel-category-title::before,
+#elementor-panel-category-wdod .elementor-panel-category-title i {
+	color: #2b6cb0;
+}
+
+/* Widget icons in the panel. */
+.elementor-element--wdod-pricing-table .icon,
+.elementor-element--wdod-team-member .icon,
+.elementor-element--wdod-testimonial-slider .icon,
+#elementor-panel-category-wdod .elementor-element .icon {
+	color: #2b6cb0;
+}
+
+/* Placeholder shown when a widget has nothing to render yet. */
+.elementor-editor-active .wdod-ew-placeholder {
+	background: rgba(43, 108, 176, 0.06);
+}
